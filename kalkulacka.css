@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#formular {
+    margin-top: 20px;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 50px;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+    color: white;
+    background-color: #0078d4;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+#vysledek {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #0078d4;
+}
